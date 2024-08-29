@@ -2,6 +2,8 @@
 Playground architect in a niche industry
 # The Playground Architect: Design Title in a Niche Industry
 
+https://i.imgur.com/orldZka.png
+
 Welcome to the repository for our blog post on the unique and vital role of playground architects. This repository contains resources, summaries, and insights related to the specialized field of playground design.
 
 ## Blog Summary
